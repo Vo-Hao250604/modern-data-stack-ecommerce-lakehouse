@@ -222,7 +222,6 @@ docker-compose up -d
 ## 👨‍💻 Author
 
 * **Võ Thanh Hào**
-* Student ID: 2251050026
 * Major: Information Technology
 * University: Ho Chi Minh City Open University
 
