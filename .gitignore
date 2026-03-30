@@ -1,0 +1,15 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+logs/
+*.log
+.env
+.env.*
+*.db
+*.sqlite
+*.pdf
+*.docx
+.DS_Store
+Thumbs.db
